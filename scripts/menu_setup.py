@@ -2,10 +2,10 @@ import json
 import sys
 import os
 import argparse
+from distutils.util import strtobool
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-from utils.menu_func import str_to_bool
+def str_to_bool(value):
+    return bool(strtobool(value))
 
 
 
