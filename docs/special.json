@@ -1,0 +1,14 @@
+{
+    "bubble_tea": {
+        "cost": 150,
+        "amount": 3
+    },
+    "green_tea": {
+        "cost": 330,
+        "amount": 5
+    },
+    "tea": {
+        "cost": 150,
+        "amount": 4
+    }
+}

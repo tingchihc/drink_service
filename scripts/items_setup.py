@@ -57,11 +57,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-"""
-python scripts/items_setup.py --add True --product milk --cost 20
-python scripts/items_setup.py --add True --product tea --cost 30
-python scripts/items_setup.py --update True --product tea --cost 50
-python scripts/items_setup.py --update True --product green_tea --cost 70
-python scripts/items_setup.py --remove True --product milk
-python scripts/items_setup.py --remove True --product black_tea
-"""

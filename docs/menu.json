@@ -1,0 +1,21 @@
+{
+    "items": {
+        "tea": 40,
+        "green_tea": 70,
+        "bubble_tea": 60
+    },
+    "specials": {
+        "bubble_tea": {
+            "cost": 150,
+            "amount": 3
+        },
+        "green_tea": {
+            "cost": 330,
+            "amount": 5
+        },
+        "tea": {
+            "cost": 150,
+            "amount": 4
+        }
+    }
+}
