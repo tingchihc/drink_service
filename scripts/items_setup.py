@@ -1,5 +1,4 @@
 import json
-import sys
 import os
 import argparse
 from distutils.util import strtobool
