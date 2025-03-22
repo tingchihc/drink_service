@@ -27,7 +27,7 @@ def main():
     cost, product = args.cost, args.product
 
     current_dir = os.getcwd()    
-    MENU_FILENAME = os.path.join(current_dir, 'docs', 'menu.json')
+    MENU_FILENAME = os.path.join(current_dir, 'docs', 'items.json')
     if os.path.exists(MENU_FILENAME) == False:
         data = {}
         for k, v in actions.items():
