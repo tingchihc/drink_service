@@ -1,7 +1,7 @@
 # drink_service
 
 <p align="center">
-  <img src="files/banner.webp" alt="Alert Text" width="800" height="350">
+  <img src="images/banner.webp" alt="Alert Text" width="800" height="350">
 </p>
 
 ## TODO  
