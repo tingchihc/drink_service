@@ -10,6 +10,6 @@
 - [ ] use a dockerfile to save file in local
 - [ ] write a login cmd to operation
 
-## A
+## Acknowledgement  
 
-- https://github.com/Textualize/textual
+- [Textual](https://github.com/Textualize/textual)
